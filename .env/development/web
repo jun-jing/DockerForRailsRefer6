@@ -1,1 +1,2 @@
 DATABASE_HOST=database
+REDIS_URL=redis://redis:6379/0
